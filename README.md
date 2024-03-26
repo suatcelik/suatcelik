@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suat Çelik</h1>
 <h3 align="center">A passionate full-stack developer from Türkiye</h3>
 
+- 🌐 Web Site : https://suatcelik.net/
+
 - 🔭 I’m currently working on **Java**
 
-- 💬 Ask me about **react,javascript,java**
+- 💬 Ask me about **React,JavaScript,Java**
 
 - 📫 How to reach me **sc.suatcelik@gmail.com**
 
